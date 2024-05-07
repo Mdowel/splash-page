@@ -66,6 +66,7 @@ p {
     font-size: 0.75rem;
     letter-spacing: 1px;
     color: #858585;
+    text-align: center;
 }
 
 /* =================
@@ -195,7 +196,4 @@ input:focus {
         padding: 25px;
     }
 
-    .fine-print {
-        text-align: center;
-    }
 }

@@ -91,7 +91,7 @@ p {
     background-color: #6c697b;
     background-image: url(images/meditation.jpg);
     background-size: cover;
-    /* background-blend-mode: overlay; */
+    background-blend-mode: overlay;
     padding-bottom: 1.5em;
 }
 

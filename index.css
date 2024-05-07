@@ -14,7 +14,7 @@ body {
 
    @font-face {
     src: url("braga.regular.ttf");
-    font-family: Braga;
+    font-family: 'Braga';
 }
 
 h1 {
@@ -26,7 +26,8 @@ h1 {
 h2 {
     font-size: 2.25rem;
     margin: 0.167em 0;
-    font-family: Braga;
+    font-family: 'Braga', sans-serif;
+    text-align: center;
 }
 
 p {

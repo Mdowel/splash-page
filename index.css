@@ -88,10 +88,10 @@ p {
     min-height: 400px;
     text-align: center;
     color: #bad8de;
-    background-color: #b7b6bb;
+    background-color: #817f89;
     background-image: url(images/meditation.jpg);
     background-size: cover;
-    background-blend-mode: color-burn;
+    background-blend-mode: overlay;
     padding-bottom: 1.5em;
 }
 

@@ -17,7 +17,7 @@ Sample seminar sign-up page.
 
 Michelle Dowell - michelledowell6@gmail.com
 
-Project Link: [https://rainbow-maamoul-c567b2.netlify.app/?date=2024-10-09](https://rainbow-maamoul-c567b2.netlify.app/?date=2024-10-09)
+Project Link: [https://rainbow-maamoul-c567b2.netlify.app/](https://rainbow-maamoul-c567b2.netlify.app/)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
